@@ -21,7 +21,7 @@
   <packaging>jar</packaging>
 
   <name>Event Hub to ORC</name>
-  <description>A Storm topology that writes the routes Event Hub data to an ORC file</description>
+  <description>A Storm topology that routes Event Hub data to an ORC file</description>
 
   <repositories>
     <repository>
